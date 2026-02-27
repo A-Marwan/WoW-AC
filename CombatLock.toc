@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: CombatLock
+## Notes: Locks mouse during combat
+## Author: A-M
+## Version: 1.0
+## SavedVariables: CombatLockDB
+
+wac.lua
