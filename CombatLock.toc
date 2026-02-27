@@ -1,4 +1,4 @@
-## Interface: 100105
+## Interface: 120001
 ## Title: CombatLock
 ## Notes: Locks mouse during combat
 ## Author: A-M
